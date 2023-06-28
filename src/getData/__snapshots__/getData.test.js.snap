@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getData module testing async function test 1`] = `
+[
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+]
+`;
+
+exports[`getData module testing mock return value 1`] = `
+[
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+]
+`;
